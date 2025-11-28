@@ -11,7 +11,7 @@ A fully documented virtualization & systems administration lab running on VMware
 - **Troubleshooting logs**
 - **Configuration notes**
 
-This project demonstrates real-world **systems administration, virtualization, and enterprise IT** skills.
+This project demonstrates real-world **systems administration, virtualization, & enterprise IT** skills.
 
 ## 🔧 Lab Overview
 | Component         | Hostname             | IP Address                 | Purpose                   |
